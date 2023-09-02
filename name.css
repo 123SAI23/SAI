@@ -1,0 +1,14 @@
+.abc{
+    background-color: rgb(245, 209, 192);
+    color: #902345;
+    font-style: italic;
+        font-variant:small-caps ;
+        text-transform: capitalize;
+      /*  text-decoration-line: overline ;
+        text-decoration-color:rebeccapurple ;
+        text-decoration-thickness:2px ;
+        text-decoration-style:wavy ;
+        text-decoration-thickness: 5px;
+        text-decoration: underline dotted  5px rgb(209, 97, 6);*/
+        
+}
